@@ -170,7 +170,7 @@ class App {
   }
 
   _showForm(mapE) {
-    // this.#mapEvent = mapE; // this will be used later to get the coords of clicked point when we add popup
+    this.#mapEvent = mapE; // this will be used later to get the coords of clicked point when we add popup
     form.classList.remove('hidden');
     inputDistance.focus();
   }
