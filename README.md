@@ -7,7 +7,7 @@ It is a beautiful app that uses leaflet library, where user can click on any pos
 <img src="images/1.png">
 <img src="images/2.png">
 
-### To do list:
+### Future enhancements:
 
     - Delete workout
     - Edit workout
